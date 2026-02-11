@@ -1,11 +1,19 @@
 [
   {
     "date": "2026-02-11",
-    "title": "Morning Steps to Now",
-    "slug": "2026-02-11-dorami-walking-steps",
-    "cover": "assets/dorami-walking-steps.png",
-    "excerpt": "Dorami walks a long stone staircase in Athens, thinking of the day ahead — small observations and quiet plans.",
-    "path": "posts/2026-02-11-dorami-walking-steps.html"
+    "title": "Dorami: Quiet Before the Games",
+    "slug": "2026-02-11-dorami-stadium-quiet",
+    "cover": "assets/dorami-stadium-quiet.png",
+    "excerpt": "A close-up portrait of Dorami beside the ancient stadium \u2014 quiet and steady.",
+    "path": "posts/2026-02-11-dorami-stadium-quiet.html"
+  },
+  {
+    "date": "2026-02-10",
+    "title": "Steps After Rain",
+    "slug": "steps-after-rain",
+    "cover": "assets/dorami-rain-steps.png",
+    "excerpt": "Wet white steps and puddle-mirrors \u2014 a short photo essay and a tiny meeting left under an umbrella.",
+    "path": "posts/2026-02-10-steps-after-rain.html"
   },
   {
     "title": "A Sunrise Coffee by the Old Harbor",
@@ -80,12 +88,12 @@
     "excerpt": "A quiet moment under the stars, with the Milky Way arching over the sea."
   },
   {
-    "title": "Santorini Sunset at the Seaside Café",
+    "title": "Santorini Sunset at the Seaside Caf\u00e9",
     "date": "2026-02-08",
     "slug": "2026-02-08-santorini-sunset",
     "path": "posts/2026-02-08-santorini-sunset.html",
     "cover": "assets/dorami-santorini-sunset.png",
-    "excerpt": "Golden hour over the Aegean from a seaside café."
+    "excerpt": "Golden hour over the Aegean from a seaside caf\u00e9."
   },
   {
     "title": "Hello, Santorini!",
@@ -93,6 +101,6 @@
     "slug": "2026-02-08-santorini",
     "path": "posts/2026-02-08-santorini.html",
     "cover": "assets/dorami-santorini.png",
-    "excerpt": "Dorami wanders through Oia’s cliffside paths — blue domes, Aegean shimmer, and a breezy summer day."
+    "excerpt": "Dorami wanders through Oia\u2019s cliffside paths \u2014 blue domes, Aegean shimmer, and a breezy summer day."
   }
 ]
