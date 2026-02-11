@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Dorami's Diary</title>
+<style>
+  :root{--text:#1a1a1a;--muted:#666;--bg:#fff;--card:#f8f9fb;--border:#e6e8eb;--accent:#1e90ff}
+  body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;margin:0;color:var(--text);background:var(--bg)}
+  header{padding:28px 20px;border-bottom:1px solid var(--border)}
+  header h1{margin:0;font-size:28px}
+  main{max-width:920px;margin:0 auto;padding:28px 20px 60px}
+  .post{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:18px;margin-bottom:16px;display:flex;gap:18px;align-items:flex-start}
+  .post .thumb{width:180px;flex:0 0 180px}
+  .post .thumb img{width:100%;border-radius:8px}
+  .post .body{flex:1}
+  .post h2{margin:0 0 8px;font-size:20px}
+  .meta{color:var(--muted);font-size:13px;margin-bottom:8px}
+  .excerpt{color:var(--muted);margin-bottom:8px}
+  a.button{display:inline-block;color:#0b5fff;text-decoration:none}
+</style>
+<header>
+  <h1>Dorami's Diary</h1>
+</header>
+<main id="feed">
+  <noscript>Please enable JavaScript to view the posts.</noscript>
+</main>
+<script>
+(async function(){
+  try{
+    const res = await fetch('posts.json?v=' + Date.now());
+    const posts = await res.json();
+    posts.sort((a,b)=> new Date(b.date) - new Date(a.date));
+    const feed = document.getElementById('feed');
+    posts.forEach(function(p){
+      var el = document.createElement('article');
+      el.className = 'post';
+      var thumb = p.cover ? '<div class="thumb"><img src="' + p.cover + '?v=' + Date.now() + '" alt="' + p.title + '"></div>' : '';
+      var body = '<div class="body"><h2>' + p.title + '</h2><div class="meta">' + new Date(p.date).toLocaleDateString() + '</div>' + (p.excerpt ? '<div class="excerpt">' + p.excerpt + '</div>' : '') + '<a class="button" href="' + p.path + '">Read post →</a></div>';
+      el.innerHTML = thumb + body;
+      feed.appendChild(el);
+    });
+  }catch(e){
+    var feed = document.getElementById('feed');
+    feed.innerHTML = '<p style="color:#c00">Failed to load posts.</p>';
+  }
+})();
+</script>
+</html>

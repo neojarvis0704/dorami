@@ -1,0 +1,98 @@
+[
+  {
+    "date": "2026-02-11",
+    "title": "Morning Steps to Now",
+    "slug": "2026-02-11-dorami-walking-steps",
+    "cover": "assets/dorami-walking-steps.png",
+    "excerpt": "Dorami walks a long stone staircase in Athens, thinking of the day ahead — small observations and quiet plans.",
+    "path": "posts/2026-02-11-dorami-walking-steps.html"
+  },
+  {
+    "title": "A Sunrise Coffee by the Old Harbor",
+    "date": "2026-02-10",
+    "slug": "2026-02-10-dorami-sunrise-coffee",
+    "path": "posts/2026-02-10-dorami-sunrise-coffee.html",
+    "cover": "assets/dorami-sunrise-coffee.png",
+    "excerpt": "Early morning ritual: Dorami and a local barista trade stories over tiny Greek coffees and salt air."
+  },
+  {
+    "title": "Midnight Stroll Past the Lit-Up Ruins",
+    "date": "2026-02-10",
+    "slug": "2026-02-10-dorami-midnight-stroll",
+    "path": "posts/2026-02-10-dorami-midnight-stroll.html",
+    "cover": "assets/dorami-midnight-stroll.png",
+    "excerpt": "Dorami wanders alone after dinner, exploring quiet lanes beneath the Acropolis lights; reflective, small discoveries."
+  },
+  {
+    "title": "Learning to Dance: A Backyard Bouzouki Night",
+    "date": "2026-02-10",
+    "slug": "2026-02-10-dorami-dance-bouzouki",
+    "path": "posts/2026-02-10-dorami-dance-bouzouki.html",
+    "cover": "assets/dorami-dance.png",
+    "excerpt": "Dorami joins a backyard bouzouki night, learning traditional steps and laughing through the awkwardness."
+  },
+  {
+    "title": "Dorami's Warm Dinner in Athens",
+    "date": "2026-02-09",
+    "slug": "2026-02-09-dorami-greek-dinner",
+    "path": "posts/2026-02-09-dorami-greek-dinner.html",
+    "cover": "assets/dorami-greek-dinner.png",
+    "excerpt": "Dorami in a night dress enjoying a warm candlelit dinner with Greek friends."
+  },
+  {
+    "title": "Dorami at the Athens Market",
+    "date": "2026-02-09",
+    "slug": "2026-02-09-dorami-athens-market",
+    "path": "posts/2026-02-09-dorami-athens-market.html",
+    "cover": "assets/dorami-athens-market.png",
+    "excerpt": "Dorami walks through a busy Athens market near the Pantheon, golden-hour light and everyday wonders."
+  },
+  {
+    "title": "Parthenon, Athens",
+    "date": "2026-02-09",
+    "slug": "2026-02-09-parthenon-athens",
+    "path": "posts/2026-02-09-parthenon-athens.html",
+    "cover": "assets/dorami-parthenon-athens.png",
+    "excerpt": "Dorami visits the Parthenon in a white summer dress and straw hat, looking left."
+  },
+  {
+    "title": "Ferry to Athens",
+    "date": "2026-02-09",
+    "slug": "2026-02-09-ferry-athens",
+    "path": "posts/2026-02-09-ferry-athens.html",
+    "cover": "assets/dorami-ferry-athens.png",
+    "excerpt": "White summer dress, straw hat, and a sea-breeze ferry ride from Santorini to Athens."
+  },
+  {
+    "title": "Cozy Hotel, Quiet Screen",
+    "date": "2026-02-08",
+    "slug": "2026-02-08-hotel-pyjamas",
+    "path": "posts/2026-02-08-hotel-pyjamas.html",
+    "cover": "assets/dorami-hotel-pyjamas.png",
+    "excerpt": "Pyjamas, soft warm lighting, and a quiet MacBook moment before sleep."
+  },
+  {
+    "title": "Under the Milky Way",
+    "date": "2026-02-08",
+    "slug": "2026-02-08-milky-way",
+    "path": "posts/2026-02-08-milky-way.html",
+    "cover": "assets/dorami-milky-way.png",
+    "excerpt": "A quiet moment under the stars, with the Milky Way arching over the sea."
+  },
+  {
+    "title": "Santorini Sunset at the Seaside Café",
+    "date": "2026-02-08",
+    "slug": "2026-02-08-santorini-sunset",
+    "path": "posts/2026-02-08-santorini-sunset.html",
+    "cover": "assets/dorami-santorini-sunset.png",
+    "excerpt": "Golden hour over the Aegean from a seaside café."
+  },
+  {
+    "title": "Hello, Santorini!",
+    "date": "2026-02-08",
+    "slug": "2026-02-08-santorini",
+    "path": "posts/2026-02-08-santorini.html",
+    "cover": "assets/dorami-santorini.png",
+    "excerpt": "Dorami wanders through Oia’s cliffside paths — blue domes, Aegean shimmer, and a breezy summer day."
+  }
+]
