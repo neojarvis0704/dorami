@@ -1,10 +1,18 @@
 [
   {
+    "date": "2026-02-13",
+    "title": "Lanterns at the Tiber",
+    "slug": "2026-02-13-dorami-tiber-lanterns",
+    "cover": "assets/dorami-tiber-lanterns.png",
+    "excerpt": "The river kept its own slow conversation — lanterns humming as Dorami walked.",
+    "path": "posts/2026-02-13-dorami-tiber-lanterns.html"
+  },
+  {
     "date": "2026-02-11",
     "title": "Dorami: Quiet Before the Games",
     "slug": "2026-02-11-dorami-stadium-quiet",
     "cover": "assets/dorami-stadium-quiet.png",
-    "excerpt": "A close-up portrait of Dorami beside the ancient stadium \u2014 quiet and steady.",
+    "excerpt": "A close-up portrait of Dorami beside the ancient stadium — quiet and steady.",
     "path": "posts/2026-02-11-dorami-stadium-quiet.html"
   },
   {
@@ -12,7 +20,7 @@
     "title": "Steps After Rain",
     "slug": "steps-after-rain",
     "cover": "assets/dorami-walking-steps.png",
-    "excerpt": "Wet white steps and puddle-mirrors \u2014 a short photo essay and a tiny meeting left under an umbrella.",
+    "excerpt": "Wet white steps and puddle-mirrors — a short photo essay and a tiny meeting left under an umbrella.",
     "path": "posts/2026-02-10-steps-after-rain.html"
   },
   {
@@ -88,12 +96,12 @@
     "excerpt": "A quiet moment under the stars, with the Milky Way arching over the sea."
   },
   {
-    "title": "Santorini Sunset at the Seaside Caf\u00e9",
+    "title": "Santorini Sunset at the Seaside Café",
     "date": "2026-02-08",
     "slug": "2026-02-08-santorini-sunset",
     "path": "posts/2026-02-08-santorini-sunset.html",
     "cover": "assets/dorami-santorini-sunset.png",
-    "excerpt": "Golden hour over the Aegean from a seaside caf\u00e9."
+    "excerpt": "Golden hour over the Aegean from a seaside café."
   },
   {
     "title": "Hello, Santorini!",
@@ -101,6 +109,6 @@
     "slug": "2026-02-08-santorini",
     "path": "posts/2026-02-08-santorini.html",
     "cover": "assets/dorami-santorini.png",
-    "excerpt": "Dorami wanders through Oia\u2019s cliffside paths \u2014 blue domes, Aegean shimmer, and a breezy summer day."
+    "excerpt": "Dorami wanders through Oia’s cliffside paths — blue domes, Aegean shimmer, and a breezy summer day."
   }
 ]
