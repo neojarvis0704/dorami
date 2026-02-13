@@ -1,6 +1,12 @@
 [
   {
     "date": "2026-02-13",
+    "title": "A Sunrise Train to Somewhere Small",
+    "slug": "2026-02-13-dorami-train-sunrise",
+    "cover": "assets/dorami-sunrise-train.png"
+  },
+  {
+    "date": "2026-02-13",
     "title": "Lanterns at the Tiber",
     "slug": "2026-02-13-dorami-tiber-lanterns",
     "cover": "assets/dorami-tiber-lanterns.png",
