@@ -54,6 +54,7 @@
 
 
 
+
 - Skill path: /home/thomas/.openclaw/workspace/skills/azure-image-gen
 - Credentials stored in: /home/thomas/.env.azure (secrets NOT stored in memory)
 - Preferred default prompt: "photorealistic fluffy kitten, soft lighting, high detail"
